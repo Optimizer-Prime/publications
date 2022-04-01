@@ -1,7 +1,7 @@
 # Publications
 
 ### Primary Manuscripts
-Olfert, I. M., Devallance, E., Hoskinson, H., Branyan, K. W., ![](https://img.shields.io/badge/-Clayton%2C%20S.A.-blue), Pitzer, C. R., . . . Chantler, P. D. (2017). Chronic exposure to electronic cigarette (E-cig) results in impaired cardiovascular function in mice. Journal of Applied Physiology. doi:10.1152/japplphysiol.00713.2017
+Olfert, I. M., Devallance, E., Hoskinson, H., Branyan, K. W., ![](https://img.shields.io/badge/-Clayton%2C%20S.A.-blue), Pitzer, C. R., . . . Chantler, P. D. (2017). Chronic exposure to electronic cigarettes results in impaired cardiovascular function in mice. Journal of Applied Physiology. doi:10.1152/japplphysiol.00713.2017
 
 ### Abstracts
 
