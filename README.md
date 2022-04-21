@@ -1,5 +1,7 @@
 # Publications
 
+Visit my [Publons page](https://publons.com/researcher/5149609/stuart-clayton/) for citation metrics and peer review history.
+
 ### Primary Manuscripts
 Olfert, I. M., Devallance, E., Hoskinson, H., Branyan, K. W., ![](https://img.shields.io/badge/-Clayton%2C%20S.A.-blue), Pitzer, C. R., . . . Chantler, P. D. (2017). [Chronic exposure to electronic cigarettes results in impaired cardiovascular function in mice.](https://github.com/Optimizer-Prime/publications/blob/main/publications/japplphysiol.00713.2017.pdf) Journal of Applied Physiology. Vol 124, Issue 3, p573-582. doi:10.1152/japplphysiol.00713.2017
 
